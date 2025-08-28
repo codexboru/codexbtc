@@ -5,8 +5,6 @@
 BTC Liquidations Marker // tracker mit tabelle und Chart.
 
 
-![codexboru_Profil](githubprofil.png)
-
 
 ## Stimmenkontrolle & Admin-Resonanz
 
