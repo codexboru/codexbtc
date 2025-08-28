@@ -1,4 +1,4 @@
-![codexboru](githubprofile.PNG)
+![codexboru](githubprofil.png)
 
 
 # codexbtc
