@@ -58,7 +58,7 @@ Die rituelle Startseite. Sie verbindet alle Fragmente, rahmt die Struktur, und l
 
 > _„Ein Trade ist kein Gewinn. Er ist ein Zeichen.“_
 
-[🜂 Öffne index.html](https://codexboru.github.io/codexarkham/)  
+[🜂 Öffne codexbtc](https://codexboru.github.io/codexbtc/))  
 Manuelle Eingabe der Top-20 Positionen.  
 Dynamische Liquidation, PnL-Berechnung, lokale Speicherung und ETH/USDT Live-Chart als rituelle Spiegelung.
 
